@@ -26,11 +26,11 @@ Outro ajuste necessário é adicionar uma SMBIOS válida para permitir que algum
 
 ## Versão do Opencore
 
-1.0.3
+1.0.4
 
 ## Minha Versão do Mac
 
-Sequoia (15.2)
+Sequoia (15.3.1)
 
 ## Versão mínima compatível com Mac
 
