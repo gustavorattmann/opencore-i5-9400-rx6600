@@ -30,7 +30,7 @@ Outro ajuste necessário é adicionar uma SMBIOS válida para permitir que algum
 
 ## Minha Versão do Mac
 
-Sequoia (15.5)
+Sequoia (15.6.1)
 
 ## Versão mínima compatível com Mac
 
